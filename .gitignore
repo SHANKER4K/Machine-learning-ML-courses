@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 __pycache__/
 media/
 manim/
 */__pycache__/
 */media/
 */manim/
+=======
+images/
+.vscode/
+.venv/
+>>>>>>> 61af797 (books)
