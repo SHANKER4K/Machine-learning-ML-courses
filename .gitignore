@@ -1,0 +1,6 @@
+__pycache__/
+media/
+manim/
+*/__pycache__/
+*/media/
+*/manim/
